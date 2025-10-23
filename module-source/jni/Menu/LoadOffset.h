@@ -1,0 +1,13 @@
+uint64_t Camera = 0x2A75248;//public static Camera get_main() { }
+uint64_t WorldToScreen = 0x2A74984;//public Vector3 WorldToScreenPoint(Vector3 position) { }
+uint64_t GetHealth = 0x126028C;//public static int GetHealth(PhotonPlayer player) { } //public static int ABBAABFDDBBFHBG(PhotonPlayer AAAECGGDDGAHEAD) { }
+uint64_t GetTeam = 0x1267D88;//public Team GetTeam() { }
+uint64_t GetPosition = 0x3196F8C;//public Vector3 get_position() { }
+uint64_t SetPosition = 0x319705C;//public void set_position(Vector3 value) { }
+uint64_t GetTransform = 0x3183D5C;//public Transform get_transform() { }
+uint64_t GetPhoton = 0x12679E4;//public PhotonPlayer get_Player() { }
+uint64_t SplashScreen = 0x2205330;//public void EFDEABDAABFEBEF(string EBBFEEDBFEHADDB) { }
+uint64_t Update = 0x1266554;//private void Update() { }
+uint64_t AirJump = 0x2B88618;//public bool get_isGrounded() { } class CharacterController
+uint64_t ScalePlayer = 0x3197F68;//public void set_localScale(Vector3 value) { }
+uint64_t GetIsLocal = 0x2ABB01C;//public bool get_isLocal() { }
